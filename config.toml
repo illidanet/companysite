@@ -1,5 +1,5 @@
 title = "Airspace for Hugo"
-baseURL = "https://illidanet.github.io"
+baseURL = "https://illidanet.github.io/"
 languageCode = "en-us"
 theme = "airspace-hugo"
 
